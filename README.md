@@ -1,11 +1,10 @@
 
 ## Hi there 👋
 
-- 🔭 I’m Abdoul Ibrahima Samaké, a passionate full-stack developer from Mali.
-- 🌱 I’m currently sharpening my skills in backend technologies like Spring Boot and Django.
+- 🔭 I’m Abdoul Ibrahima Samaké, a passionate full-stack.
+- 🌱 I’m currently sharpening my skills in backend technologies like Spring Boot, Django and express js.
 - 👯 I’m looking to collaborate on impactful tech projects in education and health.
 - 🤔 I’m looking for help with DevOps and system design best practices.
-- 💬 Ask me about JavaScript, Flutter, or how to deploy a project on Firebase!
 - 📫 How to reach me: [samabdoul03@gmail.com](mailto:samabdoul03@gmail.com)
 
 
@@ -31,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -71,6 +70,9 @@
   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
